@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chinese-flashcards/static/css/main.073c9b0a.css",
+    "main.js": "/chinese-flashcards/static/js/main.dcb0c95b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/chinese-flashcards/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/chinese-flashcards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chinese-flashcards/index.html",
+    "main.073c9b0a.css.map": "/chinese-flashcards/static/css/main.073c9b0a.css.map",
+    "main.dcb0c95b.js.map": "/chinese-flashcards/static/js/main.dcb0c95b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/chinese-flashcards/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dcb0c95b.js"
+  ]
+}
